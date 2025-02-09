@@ -58,7 +58,8 @@ model.add(Dense(classes, activation='softmax'))
 ### 📊 Results
 - The model is trained on an ASL dataset to classify different hand signs accurately.
 - Uses Batch Normalization and Dropout for better generalization.
-
+- Training Accuracy->93.17%
+- Testing Accuracy-> 93.86%
 ---
 
 
